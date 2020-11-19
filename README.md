@@ -1,1 +1,3 @@
 # djangoboilerplate
+
+For personal use
