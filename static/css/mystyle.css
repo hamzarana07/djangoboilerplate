@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    display: block;
+    background: dimgray;
+}
+h1, p, h2, h3 ,h4{
+    color: coral;
+    font-weight: bolder;
+}
